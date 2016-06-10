@@ -1,0 +1,8 @@
+function calculate_median(arr) {
+  if(!(s instanceof Array))
+  	return ;
+  	
+  return arr[Math.floor(s.length/2)];
+}
+
+module.exports = calculate_median;
